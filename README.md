@@ -4,6 +4,8 @@ Contributor:
 Google's Paper on Tacotron : https://arxiv.org/pdf/1712.05884.pdf
 NVIDIA GitHub: https://github.com/NVIDIA/tacotron2
 LJ Speech Dataset: https://keithito.com/LJ-Speech-Dataset/
+The original code is from https://colab.research.google.com/github/pytorch/pytorch.github.io/blob/master/assets/hub/nvidia_deeplearningexamples_tacotron2.ipynb
+The code which I have modified is under file TTS_NguyenTienDat.ipynb
 
 2. Nguyen Tien Dat
 
