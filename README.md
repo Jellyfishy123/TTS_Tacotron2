@@ -3,6 +3,7 @@ Misbah Mohammed (Youtube channel) https://www.youtube.com/watch?v=euBGpUF6YN8&t=
 <br> Google's Paper on Tacotron : https://arxiv.org/pdf/1712.05884.pdf
 <br> NVIDIA GitHub: https://github.com/NVIDIA/tacotron2
 <br> LJ Speech Dataset: https://keithito.com/LJ-Speech-Dataset/
+
 <br> Nguyen Tien Dat
 <br> The original code is from https://colab.research.google.com/github/pytorch/pytorch.github.io/blob/master/assets/hub/nvidia_deeplearningexamples_tacotron2.ipynb
 <br> The code which I have modified is under file TTS_NguyenTienDat.ipynb
